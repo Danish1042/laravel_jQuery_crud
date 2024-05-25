@@ -1,0 +1,5 @@
+
+</body>
+@stack('js')
+
+</html>
